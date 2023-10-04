@@ -2,7 +2,7 @@
 
 This repository contains the OpenStack nova logs which are created by a [DevStack](https://docs.openstack.org/devstack/latest/) single virtual machine.  
 
-### logs speification 
+### logs specification 
 
 | Name                                          | Description             |
 |-----------------------------------------------|-------------------------|
